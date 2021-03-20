@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm Michelle, a 2nd year Computer Science & Business Administration Double Degree Co-op student at Wilfrid Laurier University. I am currently looking for any new internship opportunities for Spring 2021. 
+I'm Michelle, a 2nd year Computer Science & Business Administration Double Degree Co-op student at Wilfrid Laurier University.
 
 Check out my website: https://michellemuliana.com
 
