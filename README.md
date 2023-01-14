@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm Michelle, a 3rd year Computer Science & Business Administration Double Degree Co-op student at Wilfrid Laurier University.
+I'm Michelle, a 4rd year Computer Science & Business Administration Double Degree Co-op student at Wilfrid Laurier University.
 
 Check out my website: https://michellemuliana.com
 
