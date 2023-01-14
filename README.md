@@ -2,8 +2,6 @@
 
 I'm Michelle, a 4rd year Computer Science & Business Administration Double Degree Co-op student at Wilfrid Laurier University.
 
-Check out my website: https://michellemuliana.com
-
 <!--
 **michmuliana/michmuliana** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
