@@ -3,12 +3,10 @@
 
 * Full Stack Software Engineer
 * Double Degree Business Administration (BBA) and Computer Science (BSc) student at Wilfrid Laurier University - Class of 2024
-* You can explore all my open-source projects here on Github
-
-
+* You can explore all my open-source projects here on Github or [DevPost](https://devpost.com/michmuliana)
 ## Languages + Tools 🛠 ##
 
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![Reac)t](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
