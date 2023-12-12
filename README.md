@@ -1,5 +1,5 @@
-### Hi there 👋
 
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=23&duration=1200&pause=500&color=F79762&vCenter=true&multiline=true&repeat=false&random=false&width=450&height=75&lines=%3E+cat+profile_motd;Hi%2C+I'm+Michelle+Muliana!+" width="70%" />
 
 * Full Stack Software Engineer
 * Double Degree Business Administration (BBA) and Computer Science (BSc) student at Wilfrid Laurier University - Class of 2024
@@ -7,6 +7,7 @@
 
 
 ## Languages + Tools 🛠 ##
+
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
@@ -26,23 +27,8 @@
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 
-## Contact me 📬##
-Don't hesitate to get in touch! Click the links below to contact me
+## Contact me 📬 ##
+
+Don't hesitate to get in touch! Click the links below to contact me 
+
 ![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)
-
-
-
-<!--
-**michmuliana/michmuliana** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
