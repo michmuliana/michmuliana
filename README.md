@@ -1,5 +1,5 @@
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=23&duration=1200&pause=500&color=F79762&vCenter=true&multiline=true&repeat=false&random=false&width=450&height=75&lines=%3E+cat+profile_motd;Hi%2C+I'm+Michelle+Muliana!+" width="70%" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=23&duration=1200&pause=500&color=36BCF7FF&vCenter=true&multiline=true&repeat=false&random=false&width=450&height=75&lines=%3E+cat+profile_motd;Hi%2C+I'm+Michelle+Muliana!+" width="70%" />
 
 * Full Stack Software Engineer
 * Double Degree Business Administration (BBA) and Computer Science (BSc) student at Wilfrid Laurier University - Class of 2024
@@ -27,6 +27,6 @@
 
 ## Contact me 📬 ##
 
-Don't hesitate to get in touch! Click the links below to contact me 
+Don't hesitate to get in touch! Click the link below to contact me 
 
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](http://linkedin.com/in/michellemuliana)
