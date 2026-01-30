@@ -2,7 +2,15 @@
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=23&duration=1200&pause=500&color=36BCF7FF&vCenter=true&multiline=true&repeat=false&random=false&width=450&height=75&lines=%3E+cat+profile_motd;Hi%2C+I'm+Michelle+Muliana!+" width="70%" />
 
 * Full Stack Software Engineer
-* Double Degree Business Administration (BBA) and Computer Science (BSc) Alumna at Wilfrid Laurier University
+* I'm currently a Full Stack Software Engineer at Toronto Dominion (TD) Bank, working on customer platform products
+* I'm proud to have completed a Double Degree in Business Administration (BBA) and Computer Science (BSc) at Wilfrid Laurier University
+* In the past I've completed internships at:
+  - [TD Bank](https://www.td.com/), Customer platform team building web applications
+  - [TD Bank](https://www.td.com/), Cybersecurity team developing internal management systems
+  - [Definity Financial](https://www.definityfinancial.com/), developing RPA solutions and automations
+  - [Blackberry](https://www.blackberry.com/), managing technical project lifecycles and software delivery
+  - [RBC Epic Founders Program](https://www.uwindsor.ca/dailynews/2021-08-16/events-mark-culmination-business-accelerator-program), writing cross-platform mobile application
+  - [Everlink](https://www.everlink.ca), writing technical requirements for financial gateway integrations and transitioning from legacy interfaces
 * You can explore all my open-source projects here on Github or [DevPost](https://devpost.com/michmuliana)
 ## Languages + Tools 🛠 ##
 
