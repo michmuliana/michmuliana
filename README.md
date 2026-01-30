@@ -1,9 +1,8 @@
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=23&duration=1200&pause=500&color=36BCF7FF&vCenter=true&multiline=true&repeat=false&random=false&width=450&height=75&lines=%3E+cat+profile_motd;Hi%2C+I'm+Michelle+Muliana!+" width="70%" />
 
-* Full Stack Software Engineer
-* I'm currently a Full Stack Software Engineer at Toronto Dominion (TD) Bank, working on customer platform products
-* I'm proud to have completed a Double Degree in Business Administration (BBA) and Computer Science (BSc) at Wilfrid Laurier University
+* I'm currently a Full Stack Software Engineer at [TD Bank](https://www.td.com/), working on customer platform products
+* I'm proud to have completed a Double Degree in Business Administration (BBA) and Computer Science (BSc) at [Wilfrid Laurier University](https://www.wlu.ca/)
 * In the past I've completed internships at:
   - [TD Bank](https://www.td.com/), Customer platform team building web applications
   - [TD Bank](https://www.td.com/), Cybersecurity team developing internal management systems
